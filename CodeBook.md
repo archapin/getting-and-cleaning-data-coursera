@@ -1,4 +1,4 @@
-# Study Design #
+## Study Design
 
 The dataset was derived from the [Human Activity Recognition Using Smartphones Dataset Version 1.0](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) (HARUSDS).
 
@@ -10,14 +10,21 @@ This Mean.Of.Wearable.Data data set provides the mean by subject and type of act
 
 The details of how to obtain the Mean.Of.Wearable.Data from the original data can be obtain in the README.md file accompanying this data set.
 
+### Notes
 
-# Variables Included in the Mean.Of.Wearable.Data Data Set #
+- Values are normalized and bounded within [-1,1].
+- The units used for the accelerations are 'g's (gravity of earth = 9.80665 meters per squared second).
+- The angular velocity units are radians per second.
+
+## Variables Included in the Mean.Of.Wearable.Data Data Set 
 
 #### Subject
 
 Unique Experiment Subject Identifier. 
 
 Values: 30 different integer values from 1 to 30
+
+Unitless variable
 
 #### Activity
 
@@ -37,6 +44,8 @@ Values: 6 different character values:
 The mean of the variable Mean Of Time Domain Body Linear Acceleration Signal X Axis
 
 Values: 180 floating values ranging from: 0.22159824394 to 0.3014610196
+
+
 
 #### Mean.Of.Time.Domain.Body.Linear.Acceleration.Signal.Y.Axis
 
