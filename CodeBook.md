@@ -1,5 +1,17 @@
+# Study Design #
 
-# Variables included in data set #
+The dataset was derived from the [Human Activity Recognition Using Smartphones Dataset Version 1.0](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) (HARUSDS).
+
+The HARUSDS have observations on body and gravity acceleration and angular velocitys for each one dimensional axis and its magnitude calculated with a euclidean norm, both in time and frequency domains, signals coming from the accelerometer and gyroscope of the Samsung Galaxy S II smartphone that subjects wore realizing six diferent type of activities during a window of time where signals were recorded periodically.  The HARUSDS also includes filtered signals.
+
+The HARUSDS includes also a series of statistics calculated for every time a subject performed an activity for the window of time where smartphone data was collected.
+
+This Mean.Of.Wearable.Data data set provides the mean by subject and type of activity of the mean and standard deviation statistics provided in the HARUSDS.
+
+The details of how to obtain the Mean.Of.Wearable.Data from the original data can be obtain in the README.md file accompanying this data set.
+
+
+# Variables Included in the Mean.Of.Wearable.Data Data Set #
 
 #### Subject
 
@@ -416,16 +428,6 @@ The mean of the variable Standard Deviation Of Frequency Domain Body Angular Vel
 
 Values: 180 floating values ranging from: -0.99758523057971 to 0.287834616098305
 
-# Study design #
 
-
-
-A thorough descrition of how you collected the data
-
-
-
-Information about the summary choices made
-
-Information about the experimental design used
 
 
