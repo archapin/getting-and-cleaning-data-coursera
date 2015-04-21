@@ -6,7 +6,7 @@ The HARUSDS have observations on body and gravity acceleration and angular veloc
 
 The HARUSDS includes also a series of statistics calculated for every time a subject performed an activity for the window of time where smartphone data was collected.
 
-This Mean.Of.Wearable.Data data set provides the mean by subject and type of activity of the mean and standard deviation statistics provided in the HARUSDS.
+This Mean.Of.Wearable.Data data set provides the mean by subject and type of activity of the mean and standard deviation statistics from the HARUSDS.
 
 The details of how to obtain the Mean.Of.Wearable.Data from the original data can be obtain in the README.md file accompanying this data set.
 
